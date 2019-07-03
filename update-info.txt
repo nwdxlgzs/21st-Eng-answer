@@ -1,4 +1,8 @@
-【版本名】21世纪英语报纸答案【版本名】
-【版本】2.6【版本】
-【内容】1.更新功能【内容】
-【链接】https://github.com/nwdxlgzs/21st-Eng-answer/raw/update/21%E4%B8%96%E7%BA%AA%E8%8B%B1%E8%AF%AD%E6%8A%A5%E7%BA%B8%E7%AD%94%E6%A1%88_2.6.apk【链接】
+<版本名>21世纪英语报纸答案</版本名>
+<版本>5</版本>
+<内容>
+1.更新优化功能
+2.现在，你可以通过更新功能更新应用了！
+3.由于网络原因（文件在GitHub上），导致下载速度比较慢，请耐心等待。
+</内容>
+<链接>https://github.com/nwdxlgzs/21st-Eng-answer/raw/update/21%E4%B8%96%E7%BA%AA%E8%8B%B1%E8%AF%AD%E6%8A%A5%E7%BA%B8%E7%AD%94%E6%A1%88_2.6.apk</链接>
