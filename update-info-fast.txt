@@ -1,9 +1,8 @@
-<版本名>4.5</版本名>
-<版本>5</版本>
+<版本名>4.7</版本名>
+<版本>7</版本>
 <内容>
-注意：这是通过特殊途径得到的加速！容易更新失效
-1.更新、优化功能。
-2.现在，你可以通过更新功能更新应用了！
-3.由于网络原因（文件在GitHub上），导致下载速度比较慢，请耐心等待。
+注意：这是通过特殊途径得到的加速！容易更新失效。
+1.几乎完成了最终制作，功能基本齐备。
+2.由于网络原因（文件在GitHub上），导致下载速度比较慢，请耐心等待。
 </内容>
-<链接>https://jsproxy.ga/-----https://github.com/nwdxlgzs/21st-Eng-answer/raw/update/21%E4%B8%96%E7%BA%AA%E8%8B%B1%E8%AF%AD%E6%8A%A5%E7%BA%B8%E7%AD%94%E6%A1%88_4.5.apk</链接>
+<链接>https://jsproxy.ga/-----https://github.com/nwdxlgzs/21st-Eng-answer/raw/update/21%E4%B8%96%E7%BA%AA%E8%8B%B1%E8%AF%AD%E6%8A%A5%E7%BA%B8%E7%AD%94%E6%A1%88_4.7.apk</链接>
