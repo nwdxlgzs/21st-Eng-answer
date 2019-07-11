@@ -1,0 +1,14 @@
+body {
+    background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);
+}
+
+.app-title {
+    text-align: center
+}
+
+.app-logo {
+    left: 25%;
+    position: absolute;
+    margin: 0 auto;
+    width: 50%;
+}
