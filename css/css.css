@@ -10,3 +10,8 @@ body {background: linear-gradient(to right, #11998e, #38ef7d);}
 .widget-nopad .widget-content {padding: 0;}
 .widget-content:before, .widget-content:after {content: "";display: table;}
 .widget-content:after {clear: both;}
+.widget-table .widget-content {padding: 0;}
+.widget-plain {background: transparent;border: none;}
+.widget-plain .widget-content {padding: 0;background: transparent;border: none;}
+.widget-box {}
+.widget-box .widget-content {background: #E3E3E3;background: #FFF;}
