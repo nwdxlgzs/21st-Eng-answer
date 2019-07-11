@@ -2,3 +2,4 @@ body {background: linear-gradient(to right, #11998e, #38ef7d);}
 .app-title {text-align: center}
 .app-logo {left: 25%;position: absolute;margin: 0 auto;width: 50%;}
 .footer-border {border-bottom: 3px solid #f2fcfe;}
+.widget-header {position: relative;height: 60px;line-height: 40px;background-color: rgba(0, 0, 0, 0.40);border: 1px solid rgba(254, 182, 203, 0.5);}
