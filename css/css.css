@@ -6,3 +6,7 @@ body {background: linear-gradient(to right, #11998e, #38ef7d);}
 .widget {position: relative;clear: both;padding-bottom: 30px;width: auto;overflow: hidden;}
 .widget-content {padding: 20px 15px 15px;background-color: rgba(0, 0, 0, 0.25);border: 1px solid rgba(254, 182, 203, 0.5);}
 .big-stats-container .widget-content {border: 0;}
+.widget-header+.widget-content {border-top: none;-webkit-border-top-left-radius: 0;-webkit-border-top-right-radius: 0;-moz-border-radius-topleft: 0;-moz-border-radius-topright: 0;border-top-left-radius: 0;border-top-right-radius: 0;}
+.widget-nopad .widget-content {padding: 0;}
+.widget-content:before, .widget-content:after {content: "";display: table;}
+.widget-content:after {clear: both;}
