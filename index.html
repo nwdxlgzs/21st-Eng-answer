@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <title>21世纪英语报纸答案官网</title>
     <link rel="stylesheet" type="text/css" href="./css/css.css">
+    <script type="text/javascript" src="./js/jquery.min.js"></script>
+    <script type="text/javascript" src="./js/qrcode.min.js"></script>
 </head>
 
 <body>
@@ -40,7 +42,7 @@
             <hr/>
             <p>内核：<code>原生webview</code></p>
             <hr/>
-            <p>源代码（开/闭源）地址：<a href="https://github.com/nwdxlgzs/21st-Eng-answer/" target="_blank"><code>https://github.com/nwdxlgzs/21st-Eng-answer/</code></a></p>
+            <p>源代码（开/闭源）地址：<a href="https://github.com/nwdxlgzs/21st-Eng-answer/"><code>https://github.com/nwdxlgzs/21st-Eng-answer/</code></a></p>
             <hr/>
             <p>答案页原网址：<a href="https://paper.i21st.cn/m/qt.html" target="_blank"><code>https://paper.i21st.cn/m/qt.html</code></a></p>
             <hr/>
@@ -57,17 +59,26 @@
         </div>
         <div class="donwload-card">
             <div class="donwload-card1">
-                <h1>GitHub线路下载</h1>
+                <a href="" id="github" target="_blank">
+                    <h1>GitHub线路下载</h1>
+                    <div id="github_qrcode" class="qrcode"></div>
+                </a>
             </div>
             <div class="donwload-card2">
-                <h1>蓝奏云线路下载</h1>
+                <a href="" id="lanzou" target="_blank">
+                    <h1>蓝奏云线路下载</h1>
+                    <div id="lanzou_qrcode" class="qrcode"></div>
+                </a>
             </div>
             <div class="donwload-card3">
-                <h1>永硕E盘线路下载</h1>
+                <a href="" id="yongshuo" target="_blank">
+                    <h1>永硕E盘线路下载</h1>
+                    <div id="yongshuo_qrcode" class="qrcode"></div>
+                </a>
             </div>
         </div>
     </div>
-
+    <script type="text/javascript" src="./js/js.js"></script>
 </body>
 
 </html>
