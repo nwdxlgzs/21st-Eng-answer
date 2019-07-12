@@ -1,7 +1,7 @@
 //Github
-var github_download = "http://www.baidu.com";
+var github_download = "https://github.com/nwdxlgzs/21st-Eng-answer/raw/update/21世纪英语报纸答案_4.9.apk";
 //蓝奏云
-var lanzou_download = "http://www.baidu.com";
+var lanzou_download = "https://www.lanzous.com/tp/i4yh1pg";
 //永硕E盘
 var yongshuo_download = "http://www.baidu.com";
 
