@@ -15,6 +15,30 @@ body {
     width: 50%;
 }
 
+/*关于的边框*/
+.bk{
+    text-align: center;
+    margin:0 auto;
+    border-bottom: azure;
+    border-width: 5px;
+    border-bottom-style:solid;
+    width: 300px;
+}
+/*边框动画效果*/
+@keyframes dh {
+    40%{
+        width: 500px;
+    }
+    to{
+        width: 300px;
+    }
+}
+/*标题下的横线效果*/
+.bk:hover{
+    animation:dh 1s;
+}
+
+
 .line {
     z-index: 0;
     top: 20px;
