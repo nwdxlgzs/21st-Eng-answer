@@ -23,6 +23,7 @@ body {
     border-width: 5px;
     border-bottom-style:solid;
     width: 300px;
+    background: #2be407e7;
 }
 /*边框动画效果*/
 @keyframes dh {
@@ -36,6 +37,7 @@ body {
 /*标题下的横线效果*/
 .bk:hover{
     animation:dh 1s;
+    background: #2be407e7;
 }
 
 
